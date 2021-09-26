@@ -6,11 +6,11 @@
 
 <p align="center"> Student at <a href="https://www.esilv.fr/en/" target="blank"> Ecole Supérieur d'Ingénieurs Léonard de Vinci </a> in the <a href="https://dvic.devinci.fr/" target="blank"> DaVinci Innovation Center department</a>. </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmwafer&show_icons=true&locale=en&layout=compact" alt="lmwafer" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lmwafer&show_icons=true&theme=github_dark&locale=en" alt="lmwafer" /></p>
 <br><br><br><br><br><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmwafer&show_icons=true&locale=en&layout=compact" alt="lmwafer" /></p>
+<br><br><br><br><br><br><br>
 
 <h2 align="center">Connect & Work with me</h2>
 <p align="center">
