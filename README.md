@@ -1,4 +1,4 @@
-<h1 align="center">Louis-Marie Restout</h1>
+<h1 align="center">LMWafer</h1>
 
 <h2 align="center">Bio</h2>
 
