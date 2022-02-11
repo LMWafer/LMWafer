@@ -8,11 +8,29 @@ Polyvalent engineering student interested in technical creation through theory a
 
 *A robot and math oriented approach...*
 
-Basic knowledge, Panda, Jupyter, Scipy, Matplotlib, Threads...
+OpenCV, OpenCV-contrib, Open3D, Open3D-ML, Numpy, Panda, C/C++ bindings, Jupyter, Scipy, Matplotlib, Threads...
 
 - Frontend & Backend to make Softbank Robotics' NAO perform 2 theatre plays 
-- Minimax based algorithm for 12x12 Tic-Tac-Toe), use of MCTS, α-β pruning and barycenter & vector analysis 
+- Minimax based algorithm for 12x12 Tic-Tac-Toe), use of MCTS, α-β pruning and barycenter + vector analysis 
 - Matrix operations calculator 
+
+## C/C++
+
+*Talking about them C and C++*
+
+- LAN chat application 
+- vSLAM implementation
+
+## Containerization
+
+*Want a ready for prod app ?*
+
+Dockerfile, docker-compose, multi-stage build & multi-arch build.
+
+Go see my [Dokerhub](https://hub.docker.com/u/lmwafer) !
+
+- GPU dependent apps
+- Raspberry deployment
   
 ## MATLAB & Simulink
 
