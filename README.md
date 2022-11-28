@@ -2,7 +2,7 @@
 
 <h2 align="center">Bio</h2>
 
-<p align="center"> Polyvalent engineering student interested in technical creation through theory and systematization. </p>
+<p align="center"> Polyvalent engineering student working on revolutionizing the vSLAM litterature! </p>
 
 <p align="center"> Student at <a href="https://www.esilv.fr/en/" target="blank"> Ecole Supérieur d'Ingénieurs Léonard de Vinci </a> in the <a href="https://dvic.devinci.fr/" target="blank"> DaVinci Innovation Center department</a>. </p>
 
